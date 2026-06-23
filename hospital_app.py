@@ -144,7 +144,7 @@ with st.form("triage_form"):
     # Section 2 — Duration & Complaint
     st.markdown("""
     <!-- COLOR3 -->
-    <div style="background:#06d7ad;border:1px solid #0af8f8;border-radius:14px;
+    <div style="background:#00e1ff;border:1px solid #06f6f2;border-radius:14px;
                 padding:20px 24px;margin-bottom:20px;">
         <div style="display:flex;align-items:center;gap:10px;margin-bottom:4px;">
             <span style="background:#f2bc0a;color:rgb(0, 0, 0);border-radius:8px;
@@ -165,12 +165,12 @@ with st.form("triage_form"):
     # Section 3 — Severity
     st.markdown("""
     <!-- COLOR4 -->
-    <div style="background:#f60909;border:1px solid #cbdc0d;border-radius:14px;
+    <div style="background:#01c8ff;border:1px solid #01c8ff;border-radius:14px;
                 padding:20px 24px;margin-bottom:20px;">
         <div style="display:flex;align-items:center;gap:10px;margin-bottom:4px;">
-            <span style="background:#25f20a;color:white;border-radius:8px;
+            <span style="background:#f2d30a;color:rgb(0, 0, 0);border-radius:8px;
                          padding:4px 10px;font-size:12px;font-weight:600;">3</span>
-            <span style="font-size:16px;font-weight:600;color:#105efa;">How would you rate the severity?</span>
+            <span style="font-size:16px;font-weight:600;color:#000000;">How would you rate the severity?</span>
         </div>
     </div>
     """, unsafe_allow_html=True)
@@ -186,12 +186,12 @@ with st.form("triage_form"):
     # Section 4 — Medical History
     st.markdown("""
     <!-- COLOR5 -->
-    <div style="background:#f60909;border:1px solid #cbdc0d;border-radius:14px;
+    <div style="background:#05a9ca;border:1px solid #0dc8da;border-radius:14px;
                 padding:20px 24px;margin-bottom:20px;">
         <div style="display:flex;align-items:center;gap:10px;margin-bottom:4px;">
-            <span style="background:#25f20a;color:white;border-radius:8px;
+            <span style="background:#f2b80a;color:rgb(0, 0, 0);border-radius:8px;
                          padding:4px 10px;font-size:12px;font-weight:600;">4</span>
-            <span style="font-size:16px;font-weight:600;color:#105efa;">Do you have any of the following?</span>
+            <span style="font-size:16px;font-weight:600;color:#000000;">Do you have any of the following?</span>
         </div>
     </div>
     """, unsafe_allow_html=True)
