@@ -94,11 +94,11 @@ st.markdown("""
                 text-transform:uppercase;letter-spacing:0.1em;margin-bottom:12px;">
         🏥 Future Classroom · Machine Learning
     </div>
-    <div style="font-size:36px;font-weight:700;color:#1abbd3;margin-bottom:12px;
+    <div style="font-size:36px;font-weight:700;color:#000000;margin-bottom:12px;
                 letter-spacing:-0.02em;">
         Smart Hospital Patient Navigator
     </div>
-    <div style="font-size:18px;color:rgba(14, 171, 218, 0.85);font-weight:400;">
+    <div style="font-size:18px;color:rgba(0, 0, 0, 0.85);font-weight:400;">
         Find the Right Department for Your Symptoms
     </div>
 </div>
