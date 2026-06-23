@@ -88,17 +88,17 @@ DEPT_INFO = {
 # ── Hero Header ───────────────────────────────────────────────────────────────
 st.markdown("""
 <!-- COLOR1 -->
-<div style="background:linear-gradient(135deg,#f60606 0%,#4fff0a 60%,#c10cdd 100%);
+<div style="background:linear-gradient(135deg,#068ef6 0%,#0aa9ff 60%,#c10cdd 100%);
             padding:3rem 2rem 2.5rem;margin:-1rem -1rem 2rem;text-align:center;">
-    <div style="font-size:14px;font-weight:500;color:rgba(255,255,255,0.7);
+    <div style="font-size:14px;font-weight:500;color:rgba(14, 140, 236, 0.847);
                 text-transform:uppercase;letter-spacing:0.1em;margin-bottom:12px;">
         🏥 Future Classroom · Machine Learning
     </div>
-    <div style="font-size:36px;font-weight:700;color:#ffffff;margin-bottom:12px;
+    <div style="font-size:36px;font-weight:700;color:#1abbd3;margin-bottom:12px;
                 letter-spacing:-0.02em;">
         Smart Hospital Patient Navigator
     </div>
-    <div style="font-size:18px;color:rgba(255,255,255,0.85);font-weight:400;">
+    <div style="font-size:18px;color:rgba(14, 171, 218, 0.85);font-weight:400;">
         Find the Right Department for Your Symptoms
     </div>
 </div>
